@@ -1,3 +1,5 @@
+![720beb311d3061a8b4efc8d8d6fe1dbc84d924c4 (1) (1)](https://github.com/user-attachments/assets/51e2b7c4-540c-4c21-b967-a2a181235563)
+
 # <img src="./assets/icon.png" width=32 height=32> Obsidian - Advanced base for CS2 Cheat
 
 <div align="center">
