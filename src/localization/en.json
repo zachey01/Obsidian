@@ -1,0 +1,49 @@
+{
+  "title": "Obsidian",
+  "tabs": {
+    "esp": "ESP",
+    "triggerbot": "TriggerBot",
+    "fov": "FOV",
+    "misc": "Misc",
+    "settings": "Settings"
+  },
+  "esp": {
+    "toggle": "Toggle",
+    "bind": "Click to Bind",
+    "box": "Box",
+    "background": "Background",
+    "skeleton": "Skeleton",
+    "red_head": "Red Head",
+    "snapline": "Snapline",
+    "only_enemies": "Only Enemies",
+    "show_name": "Show Name",
+    "show_health": "Show Health",
+    "glowing": "Glowing",
+    "glowing_warning": "⚠️ VAC Risk",
+    "global_color": "Global Color",
+    "box_rounding": "Box Rounding"
+  },
+  "triggerbot": {
+    "toggle": "Toggle",
+    "bind": "Click to Bind",
+    "only_enemies": "Only Enemies",
+    "min_delay": "Min Delay (ms)",
+    "random_delay": "Random Delay (ms)"
+  },
+  "fov": {
+    "enable": "Enable FOV",
+    "value": "FOV Value"
+  },
+  "misc": {
+    "watermark": "Watermark",
+    "obs_bypass": "OBS Bypass"
+  },
+  "settings": {
+    "save_settings": "Save Settings",
+    "always_on_top": "Always On Top",
+    "language": "Language",
+    "acrylic_effect": "Acrylic Effect",
+    "credits": "by zachey01",
+    "github": "https://github.com/zachey01/Obsidian"
+  }
+}

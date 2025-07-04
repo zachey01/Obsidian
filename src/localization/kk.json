@@ -1,0 +1,49 @@
+{
+  "title": "Obsidian",
+  "tabs": {
+    "esp": "ESP",
+    "triggerbot": "ТриггерБот",
+    "fov": "FOV",
+    "misc": "Басқа",
+    "settings": "Баптаулар"
+  },
+  "esp": {
+    "toggle": "Қосу",
+    "bind": "Байланыстыру үшін басыңыз",
+    "box": "Жақтау",
+    "background": "Фон",
+    "skeleton": "Сүйек",
+    "red_head": "Қызыл бас",
+    "snapline": "Сызықтар",
+    "only_enemies": "Тек жаулар",
+    "show_name": "Атын көрсету",
+    "show_health": "Денсаулықты көрсету",
+    "glowing": "Жарқырау",
+    "glowing_warning": "⚠️ VAC қаупі",
+    "global_color": "Жалпы түс",
+    "box_rounding": "Жақтау дөңгелектеу"
+  },
+  "triggerbot": {
+    "toggle": "Қосу",
+    "bind": "Байланыстыру үшін басыңыз",
+    "only_enemies": "Тек жаулар",
+    "min_delay": "Мин. кідіріс (мс)",
+    "random_delay": "Кездейсоқ кідіріс (мс)"
+  },
+  "fov": {
+    "enable": "FOV қосу",
+    "value": "FOV мәні"
+  },
+  "misc": {
+    "watermark": "Су белгісі",
+    "obs_bypass": "OBS айналып өту"
+  },
+  "settings": {
+    "save_settings": "Баптауларды сақтау",
+    "always_on_top": "Барлық терезелердің үстінде",
+    "language": "Тіл",
+    "acrylic_effect": "Акрил эффектісі",
+    "credits": "by zachey01",
+    "github": "https://github.com/zachey01/Obsidian"
+  }
+}

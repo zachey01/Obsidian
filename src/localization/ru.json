@@ -1,0 +1,49 @@
+{
+  "title": "Obsidian",
+  "tabs": {
+    "esp": "ESP",
+    "triggerbot": "ТриггерБот",
+    "fov": "FOV",
+    "misc": "Разное",
+    "settings": "Настройки"
+  },
+  "esp": {
+    "toggle": "Включить",
+    "bind": "Нажмите для привязки",
+    "box": "Рамка",
+    "background": "Фон",
+    "skeleton": "Скелет",
+    "red_head": "Красная голова",
+    "snapline": "Линии",
+    "only_enemies": "Только враги",
+    "show_name": "Показать имя",
+    "show_health": "Показать здоровье",
+    "glowing": "Свечение",
+    "glowing_warning": "⚠️ Риск VAC",
+    "global_color": "Общий цвет",
+    "box_rounding": "Скругление рамки"
+  },
+  "triggerbot": {
+    "toggle": "Включить",
+    "bind": "Нажмите для привязки",
+    "only_enemies": "Только враги",
+    "min_delay": "Мин. задержка (мс)",
+    "random_delay": "Случайная задержка (мс)"
+  },
+  "fov": {
+    "enable": "Включить FOV",
+    "value": "Значение FOV"
+  },
+  "misc": {
+    "watermark": "Водяной знак",
+    "obs_bypass": "Обход OBS"
+  },
+  "settings": {
+    "save_settings": "Сохранить настройки",
+    "always_on_top": "Поверх всех окон",
+    "language": "Язык",
+    "acrylic_effect": "Акриловый эффект",
+    "credits": "by zachey01",
+    "github": "https://github.com/zachey01/Obsidian"
+  }
+}

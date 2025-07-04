@@ -1,0 +1,7 @@
+pyMeow
+pymem
+dearpygui
+psutil
+pywin32
+requests
+keyboard

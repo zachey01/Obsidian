@@ -1,0 +1,49 @@
+{
+  "title": "Obsidian",
+  "tabs": {
+    "esp": "ESP",
+    "triggerbot": "ТригерБот",
+    "fov": "FOV",
+    "misc": "Різне",
+    "settings": "Налаштування"
+  },
+  "esp": {
+    "toggle": "Увімкнути",
+    "bind": "Натисніть для прив'язки",
+    "box": "Рамка",
+    "background": "Фон",
+    "skeleton": "Скелет",
+    "red_head": "Червона голова",
+    "snapline": "Лінії",
+    "only_enemies": "Тільки вороги",
+    "show_name": "Показати ім'я",
+    "show_health": "Показати здоров'я",
+    "glowing": "Світіння",
+    "glowing_warning": "⚠️ Ризик VAC",
+    "global_color": "Загальний колір",
+    "box_rounding": "Заокруглення рамки"
+  },
+  "triggerbot": {
+    "toggle": "Увімкнути",
+    "bind": "Натисніть для прив'язки",
+    "only_enemies": "Тільки вороги",
+    "min_delay": "Мін. затримка (мс)",
+    "random_delay": "Випадкова затримка (мс)"
+  },
+  "fov": {
+    "enable": "Увімкнути FOV",
+    "value": "Значення FOV"
+  },
+  "misc": {
+    "watermark": "Водяний знак",
+    "obs_bypass": "Обхід OBS"
+  },
+  "settings": {
+    "save_settings": "Зберегти налаштування",
+    "always_on_top": "Поверх усіх вікон",
+    "language": "Мова",
+    "acrylic_effect": "Акриловий ефект",
+    "credits": "by zachey01",
+    "github": "https://github.com/zachey01/Obsidian"
+  }
+}

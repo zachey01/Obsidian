@@ -1,0 +1,49 @@
+{
+  "title": "Obsidian",
+  "tabs": {
+    "esp": "ESP",
+    "triggerbot": "TriggerBot",
+    "fov": "FOV",
+    "misc": "Divers",
+    "settings": "Paramètres"
+  },
+  "esp": {
+    "toggle": "Activer",
+    "bind": "Cliquez pour lier",
+    "box": "Boîte",
+    "background": "Arrière-plan",
+    "skeleton": "Squelette",
+    "red_head": "Tête rouge",
+    "snapline": "Lignes",
+    "only_enemies": "Ennemis seulement",
+    "show_name": "Afficher le nom",
+    "show_health": "Afficher la santé",
+    "glowing": "Brillance",
+    "glowing_warning": "⚠️ Risque VAC",
+    "global_color": "Couleur globale",
+    "box_rounding": "Arrondi de la boîte"
+  },
+  "triggerbot": {
+    "toggle": "Activer",
+    "bind": "Cliquez pour lier",
+    "only_enemies": "Ennemis seulement",
+    "min_delay": "Délai min (ms)",
+    "random_delay": "Délai aléatoire (ms)"
+  },
+  "fov": {
+    "enable": "Activer FOV",
+    "value": "Valeur FOV"
+  },
+  "misc": {
+    "watermark": "Filigrane",
+    "obs_bypass": "Contournement OBS"
+  },
+  "settings": {
+    "save_settings": "Sauvegarder les paramètres",
+    "always_on_top": "Toujours au-dessus",
+    "language": "Langue",
+    "acrylic_effect": "Effet acrylique",
+    "credits": "by zachey01",
+    "github": "https://github.com/zachey01/Obsidian"
+  }
+}
